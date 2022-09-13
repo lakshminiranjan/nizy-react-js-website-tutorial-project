@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='container flex flex-center w-100'>
             <div className='grid footer-content text-center'>
                 <p className='text'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, reprehenderit!</p>
-                <span className='text'>Copyright &copy; {date.getFullYear().toString()} SolnHub. Theme</span>
+                <span className='text'>Copyright &copy; {date.getFullYear().toString()} AMEDAUS Theme</span>
             </div>
         </div>
     </footer>
