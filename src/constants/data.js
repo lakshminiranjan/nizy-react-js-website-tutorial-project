@@ -170,13 +170,13 @@ const contact = [
     {
         id: 25,
         icon: <FaPhoneAlt style = {{ fill: gradient }} />,
-        info: "+919849950810",
+        info: "+34 91 582 0100",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 26,
         icon: <FaEnvelopeOpen style = {{ fill: gradient }} />,
-        info: "corpcomms@amadeus.com",
+        info: "sustainability@amadeus.com",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
