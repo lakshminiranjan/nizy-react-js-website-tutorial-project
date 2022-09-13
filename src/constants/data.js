@@ -170,19 +170,19 @@ const contact = [
     {
         id: 25,
         icon: <FaPhoneAlt style = {{ fill: gradient }} />,
-        info: "+425 235 712",
+        info: "+919849950810",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 26,
         icon: <FaEnvelopeOpen style = {{ fill: gradient }} />,
-        info: "solnhub@info.com",
+        info: "corpcomms@amadeus.com",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 27,
         icon: <FaMapMarkerAlt style = {{ fill: gradient }} />,
-        info: "United Kingdom, New Street",
+        info: "MADRID,SPAIN",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     }
 ]
